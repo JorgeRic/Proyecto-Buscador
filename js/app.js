@@ -1,4 +1,4 @@
-export const autos = [
+const autos = [
 	{
 		marca: 'BMW',
 		modelo: 'Serie 3',
